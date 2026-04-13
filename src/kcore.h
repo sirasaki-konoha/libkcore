@@ -68,7 +68,7 @@ typedef struct {
 
 /*********** Functions ***********/ 
 /* KResult */
-KResult k_result_from_errno(int errno);
+KResult k_result_from_errno(int err);
 const char* k_result_str(KResult result);
 void k_result_print(KResult r);
 
