@@ -55,7 +55,7 @@ m4/lt~obsolete.m4
 Makefile
 
 # Build outputs
-#**.o
-#**.lo
-#**.la
-#**.log
+**.o
+**.lo
+**.la
+**.log
